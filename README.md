@@ -3,22 +3,25 @@
 
 
 
-# 🛡️ CyberShield - Güvenliğinizi Bir Adım Öteye Taşıyın  
+# 🛡️ 𝙔𝙆 Siber Nedir?
 
-**CyberShield**, bireyler ve şirketler için kapsamlı ve yenilikçi siber güvenlik çözümleri sunar. Güvenlik açıklarını tespit eder, saldırılara karşı önlem alır ve dijital varlıklarınızı korur.  
+**𝙔𝙆 Siber**, Siber Güvenlik dünyasında 20K+ takipçiye sahip bir Siber Güvenlik bilgilendirme servisidir...
 
 ## 🚀 Özelliklerimiz  
-- **Tehdit Analizi**: Siber tehditleri erken tespit edin.  
-- **Penetrasyon Testi**: Sisteminizin dayanıklılığını test edin.  
-- **Güvenlik Danışmanlığı**: Özel çözümler ve stratejik rehberlik.  
-- **Veri Koruma**: Hassas verilerinizi güvende tutun.  
+- **Hacking Eğitimleri**: Bu eğitimlerimizle Hackerların dillerini sizlere anlatıyoruz ve onları anlamanızı sağlıyoruz.  
+- **Reklam Hizmeti**: Markalarınızı Siber Güvenliğe meraklı 20K+ kişiyle büyütüyoruz  
+- **Tool paylaşımı**: Hacking dünyasında kullanılan toolları (araçları) sizlerle paylaşarak sizleri geliştiriyoruz.  
+- **Haber Hizmeti**: Siber Dünyaya dair yerli - yabancı haberleri sizlere sunup bilgilendiriyoruz.  
 
 ## 🌐 Biz Kimiz?  
-Siber güvenlik alanında uzman bir ekiple, her geçen gün artan tehditlere karşı yenilikçi çözümler geliştiriyoruz. Müşteri odaklı yaklaşımımızla, dijital varlıklarınızı güven altına almayı hedefliyoruz.  
+2022 yılında İnstagram'da kurulmuş bir Hizmetiz. yaklaşık 2 yıldır sizlerin hizmetindeyiz ve Siber dünyaya dair her türlü içeriği insanlarla paylaşmayı hedefleyen bir kuruluşuz. Hedeflerimiz çok büyük... 
 
 
 
 
 🔐 **Bizimle Güvende Kalın!**  
 
-🖥️ Daha fazla bilgi için [cybershield.com](https://cybershield.com) adresini ziyaret edin veya bizlere ulaşın: `info@cybershield.com`.
+🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! `yksiberiletisim@gmail.com`.
+
+![image](https://github.com/user-attachments/assets/a0aee74b-ec69-456a-a2c8-277e96dae6c4)
+
