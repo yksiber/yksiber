@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/de5131bb-75b0-4977-a62d-4ebfa6097754)
+
+
+
+
 # 🛡️ CyberShield - Güvenliğinizi Bir Adım Öteye Taşıyın  
 
 **CyberShield**, bireyler ve şirketler için kapsamlı ve yenilikçi siber güvenlik çözümleri sunar. Güvenlik açıklarını tespit eder, saldırılara karşı önlem alır ve dijital varlıklarınızı korur.  
@@ -11,7 +16,7 @@
 ## 🌐 Biz Kimiz?  
 Siber güvenlik alanında uzman bir ekiple, her geçen gün artan tehditlere karşı yenilikçi çözümler geliştiriyoruz. Müşteri odaklı yaklaşımımızla, dijital varlıklarınızı güven altına almayı hedefliyoruz.  
 
-![image](https://github.com/user-attachments/assets/3337701b-05d5-482d-88b9-2df7d65548d2)
+
 
 
 🔐 **Bizimle Güvende Kalın!**  
