@@ -18,8 +18,6 @@
 
 🔐 **Bizimle Güvende Kalın!**  
 
-🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! `hello@yksiber.com`.
+🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! 
 
-
-![image](https://github.com/user-attachments/assets/fa654b04-ad54-4a53-b66d-dec0b15f0833)
-
+![image](https://github.com/user-attachments/assets/fa86c8ec-2a6d-45a1-8f64-8db98bfe7f37)
