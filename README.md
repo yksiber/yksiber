@@ -23,5 +23,5 @@
 
 🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! `hello@yksiber.com`.
 
-![image](https://github.com/user-attachments/assets/a0aee74b-ec69-456a-a2c8-277e96dae6c4)
+![image](https://hizliresim.com/etywvsn)
 
