@@ -23,7 +23,6 @@
 
 🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! `hello@yksiber.com`.
 
-https://hizliresim.com/etywvsn
 
 ![image](https://i.hizliresim.com/etywvsn.png)
 
