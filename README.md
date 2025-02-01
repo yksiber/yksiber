@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/de5131bb-75b0-4977-a62d-4ebfa6097754)
 
+![Adsız Tasarım kopyası (1000 x 345 piksel)_20250201_173208_0000](https://github.com/user-attachments/assets/19cb1e83-b4d5-4f39-a619-959f554632e4)
 
 
 
@@ -24,5 +25,5 @@
 🖥️ Daha fazla bilgi için [instagram.com/yksiber](https://instagram.com/yksiber) adresini ziyaret edin ve bizden faydalanın! `hello@yksiber.com`.
 
 
-![image](https://i.hizliresim.com/etywvsn.png)
+![image](https://github.com/user-attachments/assets/fa654b04-ad54-4a53-b66d-dec0b15f0833)
 
