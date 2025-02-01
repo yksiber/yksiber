@@ -1,9 +1,5 @@
 ![image](https://github.com/user-attachments/assets/de5131bb-75b0-4977-a62d-4ebfa6097754)
 
-![Adsız Tasarım kopyası (1000 x 345 piksel)_20250201_173208_0000](https://github.com/user-attachments/assets/19cb1e83-b4d5-4f39-a619-959f554632e4)
-
-
-
 # 🛡️ 𝙔𝙆 Siber Nedir?
 
 **𝙔𝙆 Siber**, Siber Güvenlik dünyasında 20K+ takipçiye sahip bir Siber Güvenlik bilgilendirme servisidir...
